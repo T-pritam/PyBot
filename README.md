@@ -4,7 +4,6 @@ Pybot is a chatbot that can help answer questions related to the Python programm
 Getting Started
 Prerequisites
 Python 3.9
-pip
 Django 4.2
 You can install the required Python packages by running the following command:
 pip install -r requirements.txt
